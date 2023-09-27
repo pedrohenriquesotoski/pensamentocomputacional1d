@@ -1,0 +1,2 @@
+# pensamentocomputacional1d
+auladepensamentocomputacional1d
